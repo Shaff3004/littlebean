@@ -15,8 +15,8 @@ function Menu() {
 
   return (
     <PageTransition>
-      <div className="pb-16 pt-6">
-        <div className="mb-6">
+      <div className="pb-16 pt-[max(env(safe-area-inset-top),1.5rem)]">
+        <div className="mb-6 pt-2">
           <button
             onClick={() => navigate("/")}
             className="inline-flex items-center gap-2 rounded-full px-4 py-2 text-sm font-medium text-text-secondary transition-colors hover:bg-card hover:text-text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold"

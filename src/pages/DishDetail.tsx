@@ -48,7 +48,7 @@ function DishDetail() {
             className="h-full w-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-background via-background/20 to-transparent" />
-          <div className="absolute left-4 top-4">
+          <div className="absolute left-4 top-[max(env(safe-area-inset-top),1rem)]">
             <button
               onClick={() => navigate("/menu")}
               className="inline-flex items-center gap-2 rounded-full bg-background/70 px-4 py-2 text-sm font-medium text-text-secondary backdrop-blur-sm transition-colors hover:text-text-primary"
