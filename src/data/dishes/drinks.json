@@ -1,0 +1,64 @@
+[
+  {
+    "id": "matcha-latte",
+    "name": "Матча латте на вівсяному",
+    "category": "drinks",
+    "description": "Церемоніальна матча, збита з паровим вівсяним молоком та краплею меду.",
+    "time": 5,
+    "image": "/images/matcha-latte.webp",
+    "badges": ["healthy", "quick", "pregnancy"],
+    "ingredients": [
+      "Матча церемоніальна",
+      "Вівсяне молоко",
+      "Мед"
+    ]
+  },
+  {
+    "id": "hot-chocolate",
+    "name": "Бельгійський гарячий шоколад",
+    "category": "drinks",
+    "description": "Розкішно густий гарячий шоколад із справжнього бельгійського шоколаду з вершками.",
+    "time": 10,
+    "image": "/images/hot-chocolate.webp",
+    "badges": ["favorite", "quick"],
+    "ingredients": [
+      "Бельгійський темний шоколад",
+      "Незбиране молоко",
+      "Вершки",
+      "Ваніль",
+      "Збиті вершки",
+      "Какао-порошок"
+    ]
+  },
+  {
+    "id": "berry-smoothie",
+    "name": "Ягідний смузі",
+    "category": "drinks",
+    "description": "Яскравий мікс із ягід, банану, грецького йогурту та краплі меду.",
+    "time": 5,
+    "image": "/images/berry-smoothie.webp",
+    "badges": ["healthy", "quick", "pregnancy"],
+    "ingredients": [
+      "Мікс ягід",
+      "Банан",
+      "Грецький йогурт",
+      "Мед",
+      "Мигдальне молоко"
+    ]
+  },
+  {
+    "id": "ginger-tea",
+    "name": "Імбирний чай з лимоном",
+    "category": "drinks",
+    "description": "Заспокійливий чай зі свіжого імбиру з лимоном та медом — ідеально для ранкового затишку.",
+    "time": 5,
+    "image": "/images/ginger-tea.webp",
+    "badges": ["healthy", "quick", "pregnancy"],
+    "ingredients": [
+      "Свіжий імбир",
+      "Лимон",
+      "Мед",
+      "Гаряча вода"
+    ]
+  }
+]
