@@ -5,7 +5,7 @@
     "category": "drinks",
     "description": "Ароматна кава, зварена татом з ранку. Так, тато знає, що треба обмежувати — тому чашечка одна, але яка! Найніжніша, з пінкою 🤎☕",
     "time": 5,
-    "image": "/images/natural-coffee.webp",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&h=600&fit=crop",
     "badges": ["quick", "favorite"],
     "ingredients": [
       "Кавові зерна",
@@ -20,7 +20,7 @@
     "category": "drinks",
     "description": "Заспокійливий, теплий, ніжний — як татові обійми у чашці. М'ята заспокоює, мед додає солодощі, а тато додає турботу 🍃🍯",
     "time": 5,
-    "image": "/images/mint-tea.webp",
+    "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=800&h=600&fit=crop",
     "badges": ["healthy", "quick", "pregnancy"],
     "ingredients": [
       "Свіжа м'ята",
@@ -35,7 +35,7 @@
     "category": "drinks",
     "description": "Проста, чиста, живодайна. Тато нагадує: пий водичку, сонечко! Малюку теж потрібна водичка 💧👶 Подається з усмішкою та поцілунком.",
     "time": 1,
-    "image": "/images/water.webp",
+    "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=800&h=600&fit=crop",
     "badges": ["healthy", "quick", "pregnancy"],
     "ingredients": [
       "Чиста вода",

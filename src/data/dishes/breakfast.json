@@ -5,12 +5,8 @@
     "category": "breakfast",
     "description": "Ніжні, пухкі, рум'яні — зроблені татовими руками з любов'ю в кожному шматочку. Сметана додається щедро, бо мама заслуговує на все найкраще 🤍",
     "time": 20,
-    "image": "/images/syrniki.webp",
-    "badges": [
-      "healthy",
-      "favorite",
-      "pregnancy"
-    ],
+    "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=800&h=600&fit=crop",
+    "badges": ["healthy", "favorite", "pregnancy"],
     "ingredients": [
       "Сир кисломолочний",
       "Яйця",
@@ -25,13 +21,8 @@
     "category": "breakfast",
     "description": "Фірмовий рецепт тата, відточений роками! Каша кремова, фрукти свіженькі, а порція — з подвійною любов'ю. Малюк всередині аплодує 👶🥣",
     "time": 20,
-    "image": "/images/syrniki.webp",
-    "badges": [
-      "healthy",
-      "favorite",
-      "pregnancy",
-      "chef"
-    ],
+    "image": "https://images.unsplash.com/photo-1517673400267-0251440c45dc?w=800&h=600&fit=crop",
+    "badges": ["healthy", "favorite", "pregnancy", "chef"],
     "ingredients": [
       "Вівсяна каша",
       "Трошки цукру",
@@ -45,11 +36,8 @@
     "category": "breakfast",
     "description": "Золотисті, хрусткі, ідеальні — єдина страва, де тато впевнений на 100%. Готуються з закритими очима, подаються з гордістю шефа 😎🍞",
     "time": 20,
-    "image": "/images/syrniki.webp",
-    "badges": [
-      "favorite",
-      "chef"
-    ],
+    "image": "https://images.unsplash.com/photo-1619221882220-947b3d3c8861?w=800&h=600&fit=crop",
+    "badges": ["favorite", "chef"],
     "ingredients": [
       "Білий хліб",
       "Яйця",

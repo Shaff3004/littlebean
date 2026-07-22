@@ -5,7 +5,7 @@
     "category": "snack",
     "description": "Тато відкриває холодильник, дивиться що є, і створює шедевр! Кожен раз — унікальна комбінація. Шеф-кухар імпровізує спеціально для мами 🎨",
     "time": 10,
-    "image": "/images/fridge-salad.webp",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&h=600&fit=crop",
     "badges": ["chef", "healthy", "pregnancy"],
     "ingredients": [
       "Все корисне з холодильника",
@@ -21,7 +21,7 @@
     "category": "snack",
     "description": "Легкий, свіжий, хрусткий — ідеальний перекус для мами, яка заслуговує на найкраще. Малюк теж схвалює 🥦👶",
     "time": 10,
-    "image": "/images/veggie-salad-snack.webp",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&h=600&fit=crop",
     "badges": ["healthy", "quick", "pregnancy"],
     "ingredients": [
       "Огірки",

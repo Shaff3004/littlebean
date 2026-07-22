@@ -5,7 +5,7 @@
     "category": "lunch",
     "description": "Золотистий бульйон, зварений з любов'ю та терпінням тата. Кожна ложка — як обійми зсередини. Малюк каже: «Дякую, тату!» 👶",
     "time": 45,
-    "image": "/images/chicken-broth.webp",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=800&h=600&fit=crop",
     "badges": ["favorite", "pregnancy", "healthy"],
     "ingredients": [
       "Курка",
@@ -23,7 +23,7 @@
     "category": "lunch",
     "description": "Тато ще не вирішив, що саме буде м'ясне — але воно точно буде смачне, поживне і приготоване з усією відповідальністю! Меню уточнюється на місці 😄",
     "time": 35,
-    "image": "/images/kasha-meat.webp",
+    "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=800&h=600&fit=crop",
     "badges": ["pregnancy", "healthy"],
     "ingredients": [
       "Каша (гречка/рис/булгур)",
@@ -38,7 +38,7 @@
     "category": "lunch",
     "description": "Свіжі овочі, нарізані татом з хірургічною точністю. Кожен шматочок — ідеальний, бо для мами нічого не шкода 🥒🍅",
     "time": 10,
-    "image": "/images/veggie-salad.webp",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&h=600&fit=crop",
     "badges": ["healthy", "quick", "pregnancy"],
     "ingredients": [
       "Огірки",

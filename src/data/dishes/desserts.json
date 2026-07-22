@@ -5,7 +5,7 @@
     "category": "desserts",
     "description": "Тато знає: іноді маму може врятувати тільки морозиво. Холодне, солодке, ідеальне. Будь-який смак — за бажанням королеви 👑🍦",
     "time": 1,
-    "image": "/images/ice-cream.webp",
+    "image": "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=800&h=600&fit=crop",
     "badges": ["favorite", "quick"],
     "ingredients": [
       "Морозиво (улюблений смак мами)",
@@ -19,7 +19,7 @@
     "category": "desserts",
     "description": "Свіжовичавлений сік від тата-бармена. Апельсин? Яблуко? Мікс? Мама замовляє — тато вичавлює! 🍊🧃",
     "time": 5,
-    "image": "/images/fruit-juice.webp",
+    "image": "https://images.unsplash.com/photo-1622597467836-f3285f2131b8?w=800&h=600&fit=crop",
     "badges": ["healthy", "quick", "pregnancy"],
     "ingredients": [
       "Свіжі фрукти (за вибором мами)",
@@ -33,7 +33,7 @@
     "category": "desserts",
     "description": "Найсвіжіші, найсоковитіші, вибрані татом особисто на ринку. Кожна ягідка — як вітамінка кохання для мами та малюка 🍓🫐",
     "time": 5,
-    "image": "/images/berries-fruits.webp",
+    "image": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=800&h=600&fit=crop",
     "badges": ["healthy", "quick", "pregnancy"],
     "ingredients": [
       "Сезонні ягоди",

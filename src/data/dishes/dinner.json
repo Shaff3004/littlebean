@@ -5,7 +5,7 @@
     "category": "dinner",
     "description": "Вечірня класика від тата: поживна каша, ніжне м'ясо та овочі. Після такої вечері мама і малюк спатимуть як янголята 😴💛",
     "time": 40,
-    "image": "/images/kasha-meat-veggies.webp",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=800&h=600&fit=crop",
     "badges": ["favorite", "pregnancy", "healthy"],
     "ingredients": [
       "Каша (гречка/рис/булгур)",
