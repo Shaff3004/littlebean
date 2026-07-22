@@ -1,5 +1,4 @@
-import { useState } from "react";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, useSearchParams } from "react-router-dom";
 import { motion } from "framer-motion";
 import { ArrowLeft } from "lucide-react";
 import DishCard from "@/components/DishCard";
@@ -8,10 +7,23 @@ import { categories } from "@/data/categories";
 import { getDishesByCategory } from "@/data/dishes";
 import type { CategoryId } from "@/types";
 
+const validCategories: CategoryId[] = ["breakfast", "lunch", "snack", "dinner", "desserts", "drinks"];
+
 function Menu() {
   const navigate = useNavigate();
-  const [activeCategory, setActiveCategory] = useState<CategoryId>("breakfast");
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  const categoryParam = searchParams.get("cat") as CategoryId | null;
+  const activeCategory: CategoryId =
+    categoryParam && validCategories.includes(categoryParam)
+      ? categoryParam
+      : "breakfast";
+
   const dishes = getDishesByCategory(activeCategory);
+
+  function switchCategory(id: CategoryId) {
+    setSearchParams({ cat: id }, { replace: true });
+  }
 
   return (
     <PageTransition>
@@ -36,7 +48,7 @@ function Menu() {
             {categories.map((category) => (
               <button
                 key={category.id}
-                onClick={() => setActiveCategory(category.id)}
+                onClick={() => switchCategory(category.id)}
                 className={`flex shrink-0 items-center gap-2 rounded-full px-4 py-2.5 text-sm font-medium transition-all duration-200 ${
                   activeCategory === category.id
                     ? "border border-gold bg-gold/15 text-gold"
