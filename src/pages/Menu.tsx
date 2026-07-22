@@ -22,7 +22,7 @@ function Menu() {
             className="inline-flex items-center gap-2 rounded-full px-4 py-2 text-sm font-medium text-text-secondary transition-colors hover:bg-card hover:text-text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold"
           >
             <ArrowLeft size={18} />
-            <span>Додому</span>
+            <span>На головну</span>
           </button>
         </div>
 
